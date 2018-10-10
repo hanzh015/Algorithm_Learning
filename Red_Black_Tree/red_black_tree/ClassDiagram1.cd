@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="intvTree">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAABAAAAAAAFAAAAAACAAAAAAAAAAAAAAAIA=</HashCode>
+      <FileName>intvTree.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="rbNode">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAgAAAAAIAAAAAAIEAEAAAAAAAAQCAAIAAAAAkAgA=</HashCode>
+      <FileName>rbt.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="rbTree">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQIQAEAAABAgAAAAAAAAAAAACAAABAAAAGAAAgYAQA=</HashCode>
+      <FileName>rbt.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Ncolor" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>rbt.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
